@@ -6,7 +6,7 @@ function App() {
   return (
     
       <h1>
-        Ahmad Hannan Masood Baig. MughAL
+        Ahmad Hannan Masood Baig. MughAL Sahib
       </h1>
     
   );
