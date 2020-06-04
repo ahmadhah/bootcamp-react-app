@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <h1>
-        Ahmad Hannan Masood Baig. MughAL Sahib
+        Ahmad Hannan Masood Baig. MughAL Sahib from skp
       </h1>
     </div>
   );
